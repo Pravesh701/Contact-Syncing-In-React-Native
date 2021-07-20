@@ -15,7 +15,7 @@
     "node": "12.14.0",
     "nvmw": "^1.0.0",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-contacts": "^5.0.6",
     "react-native-document-scanner": "^1.4.2",
     "react-native-gesture-handler": "^1.5.2",
